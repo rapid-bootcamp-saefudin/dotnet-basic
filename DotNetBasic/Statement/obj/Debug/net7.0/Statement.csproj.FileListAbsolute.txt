@@ -1,0 +1,15 @@
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.csproj.AssemblyReference.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.GeneratedMSBuildEditorConfig.editorconfig
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.AssemblyInfoInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.AssemblyInfo.cs
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.csproj.CoreCompileInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\bin\Debug\net7.0\Statement.exe
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\bin\Debug\net7.0\Statement.deps.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\bin\Debug\net7.0\Statement.runtimeconfig.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\bin\Debug\net7.0\Statement.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\bin\Debug\net7.0\Statement.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\refint\Statement.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\Statement.genruntimeconfig.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Statement\obj\Debug\net7.0\ref\Statement.dll

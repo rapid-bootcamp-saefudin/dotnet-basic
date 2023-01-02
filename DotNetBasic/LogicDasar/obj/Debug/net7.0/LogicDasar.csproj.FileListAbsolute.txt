@@ -1,0 +1,15 @@
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.exe
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.deps.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.runtimeconfig.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.csproj.AssemblyReference.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.GeneratedMSBuildEditorConfig.editorconfig
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.AssemblyInfoInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.AssemblyInfo.cs
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.csproj.CoreCompileInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\refint\LogicDasar.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.genruntimeconfig.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LogicDasar\obj\Debug\net7.0\ref\LogicDasar.dll
