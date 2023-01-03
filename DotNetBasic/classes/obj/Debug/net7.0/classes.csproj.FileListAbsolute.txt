@@ -1,0 +1,15 @@
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\bin\Debug\net7.0\classes.exe
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\bin\Debug\net7.0\classes.deps.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\bin\Debug\net7.0\classes.runtimeconfig.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\bin\Debug\net7.0\classes.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\bin\Debug\net7.0\classes.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.csproj.AssemblyReference.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.AssemblyInfoInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.AssemblyInfo.cs
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.csproj.CoreCompileInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\refint\classes.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\classes.genruntimeconfig.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\classes\obj\Debug\net7.0\ref\classes.dll
