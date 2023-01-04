@@ -1,5 +1,8 @@
 ﻿using DataTypes.CustomType;
+using DataTypes.InheritanceType;
+using DataTypes.ObjectType;
 using DataTypes.OOP;
+using DataTypes.PolymorphismType;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,15 +30,98 @@ namespace DataTypes
     {
         public static void Main()
         {
-            MonthlyDeposit();
-            TransactionBankAccount();
+            SamplePolymorphism();
+            //SampleInheritance();
+            //SampleObject();
+            //MonthlyDeposit();
+            //TransactionBankAccount();
             //BankAccountSample();
             //SampleClass();
             //ContohEnum();
             //ContohCoord();
         }
 
-        #region
+        #region Sample Polymorphism
+        public static void SamplePolymorphism()
+        {
+            // Polymorphism at work #1: a Rectangle, Triangle and Circle
+            // can all be used wherever a Shape is expected. No cast is
+            // required because an implicit conversion exists from a derived
+            // class to its base class.
+            var shapes = new List<Shape>
+            {
+                new PersegiPanjang(),
+                new Segitiga(),
+                new Lingkaran()
+            };
+
+            // Polymorphism at work #2: the virtual method Draw is
+            // invoked on each of the derived classes, not the base class.
+            foreach (var shape in shapes)
+            {
+                shape.Draw();
+            }
+            /* Output:
+                Drawing a rectangle
+                Performing base class drawing tasks
+                Drawing a triangle
+                Performing base class drawing tasks
+                Drawing a circle
+                Performing base class drawing tasks
+            */
+        }
+        #endregion
+
+        #region Sample Inheritance
+        public static void SampleInheritance()
+        {
+            // Create an instance of WorkItem by using the constructor in the
+            // base class that takes three arguments.
+            WorkItem item = new WorkItem("Fix Bugs",
+                                        "Fix all bugs in my code branch",
+                                        new TimeSpan(3, 4, 0, 0));
+
+            // Create an instance of ChangeRequest by using the constructor in
+            // the derived class that takes four arguments.
+            ChangeRequest change = new ChangeRequest("Change Base Class Design",
+                                                    "Add members to the class",
+                                                    new TimeSpan(4, 0, 0),
+                                                    1);
+
+            // Use the ToString method defined in WorkItem.
+            Console.WriteLine(item.ToString());
+
+            // Use the inherited Update method to change the title of the
+            // ChangeRequest object.
+            change.Update("Change the Design of the Base Class",
+                new TimeSpan(4, 0, 0));
+
+            // ChangeRequest inherits WorkItem's override of ToString.
+            Console.WriteLine(change.ToString());
+        }
+
+        #endregion
+
+        #region Sample Object
+        public static void SampleObject()
+        {
+            Person person = new Person("Kayla", 24);
+            Console.WriteLine("person Name = {0} Age = {1}", person.Name, person.Age);
+
+            Person person2 = person;
+
+            person2.Name = "Apud";
+            person2.Age = 22;
+
+            Console.WriteLine("person2 Name = {0} Age = {1}", person2.Name, person2.Age);
+            Console.WriteLine("person Name = {0} Age = {1}", person.Name, person.Age);
+
+            Person person3 = new Person("Saefudin", 25);
+            Console.WriteLine("person3 Name = {0} Age = {1}", person3.Name, person3.Age);
+        }
+        #endregion
+
+        #region Monthly Deposit
         public static void MonthlyDeposit()
         {
             var giftCard = new GiftCardAccount("gift card", 100, 50);
@@ -237,6 +323,7 @@ namespace DataTypes
         }
         #endregion
     }
+
     //public class DataTypes
     //{
     //}

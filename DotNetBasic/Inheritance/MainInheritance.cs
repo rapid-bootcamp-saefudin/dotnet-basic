@@ -11,10 +11,21 @@ namespace Inheritance
     {
         public static void Main(string[] args)
         {
-            var b = new A.B();
-            Console.WriteLine(b.GetValue());
+            // 1.
+            /*  var b = new A.B();
+                Console.WriteLine(b.GetValue());
+            */
+
+            // 2.
+            /*B b = new();
+            b.Method1();*/
+
+            // 3.
+
+
+
         }
     }
     // The example displays the following output:
-    //       10    }
+    //       7210    }
 }
