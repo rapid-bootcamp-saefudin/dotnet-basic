@@ -26,7 +26,7 @@ namespace DataTypes.PolymorphismType
     {
         public override void Draw()
         {
-            // Code to draw a circle...
+            // Code untuk menggambar Lingkaran...
             Console.WriteLine("Menggambar Lingkaran");
             base.Draw();
         }
@@ -35,7 +35,7 @@ namespace DataTypes.PolymorphismType
     {
         public override void Draw()
         {
-            // Code to draw a rectangle...
+            // Code untuk menggambar rectangle...
             Console.WriteLine("Menggambar Persegi Panjang");
             base.Draw();
         }
@@ -44,7 +44,7 @@ namespace DataTypes.PolymorphismType
     {
         public override void Draw()
         {
-            // Code to draw a triangle...
+            // Code untuk menggambar triangle...
             Console.WriteLine("Menggambar Segitiga");
             base.Draw();
         }
