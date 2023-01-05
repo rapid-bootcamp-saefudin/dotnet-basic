@@ -40,12 +40,27 @@ namespace LinqTutorial.Model
             List<Product> products = GetData();
 
             // Create query
-            IEnumerable<Product> productFilter = from item in products
-                                                 where item.Price >= 55000
-                                                 select item;
+            IEnumerable<Product> productFilter = from product in products
+                                                 where product.Price >= 55000
+                                                 select product;
 
             // Execute
             foreach (var product in productFilter)
+            {
+                Console.WriteLine(product);
+            }
+        }
+
+        public static void SampleFilterProductByName() 
+        {
+            List<Product> products = GetData();
+
+            IEnumerable<Product> productFilterByName = from product in products
+                                                       where product.Name.ToLower().Contains("susu")
+                                                       select product;
+
+            // Execute
+            foreach (var product in productFilterByName)
             {
                 Console.WriteLine(product);
             }

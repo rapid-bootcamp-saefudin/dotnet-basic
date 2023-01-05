@@ -11,7 +11,12 @@ namespace LinqTutorial.Model
         public String CategoryName { get; set; }
         public int Count { get; set; }
 
-        public Category(String name, int count) { }
+        public Category() { }
+
+        public Category(String name, int count) 
+        { 
+
+        }
 
     }
 }
