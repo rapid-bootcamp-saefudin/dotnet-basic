@@ -1,0 +1,15 @@
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.exe
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.deps.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.runtimeconfig.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.csproj.AssemblyReference.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.AssemblyInfoInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.AssemblyInfo.cs
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.csproj.CoreCompileInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\refint\Sample101Linq.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.genruntimeconfig.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\Sample101Linq\obj\Debug\net7.0\ref\Sample101Linq.dll
