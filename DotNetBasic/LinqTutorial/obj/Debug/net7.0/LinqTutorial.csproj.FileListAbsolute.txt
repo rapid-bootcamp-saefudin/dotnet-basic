@@ -1,0 +1,15 @@
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\bin\Debug\net7.0\LinqTutorial.exe
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\bin\Debug\net7.0\LinqTutorial.deps.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\bin\Debug\net7.0\LinqTutorial.runtimeconfig.json
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\bin\Debug\net7.0\LinqTutorial.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\bin\Debug\net7.0\LinqTutorial.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.csproj.AssemblyReference.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.AssemblyInfoInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.AssemblyInfo.cs
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.csproj.CoreCompileInputs.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\refint\LinqTutorial.dll
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.pdb
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\LinqTutorial.genruntimeconfig.cache
+F:\bootcamp\.net\bootcamp-project\dotnet-basic\DotNetBasic\LinqTutorial\obj\Debug\net7.0\ref\LinqTutorial.dll
